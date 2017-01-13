@@ -31,4 +31,4 @@ usage: {-h-u-p-s-r-w-t-f-o} [-f-d-T]
 Beispiel/Example:
  java -jar TheExporter.jar -h projekte.tgm.ac.at -u test -p test -d megamarkt -T produkt -f titel,preis -s preis -r DESC -w 'preis > 4' -t '$'
 ```
-Coded with :heart:
+###### Coded with :heart:
